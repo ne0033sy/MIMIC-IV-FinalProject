@@ -20,11 +20,7 @@ aws: boto3, sagemaker, awscli, jupyterlab
 ### 환경 구축하는 법
 Vscode에서 .venv 만들기.
 
-pip install darts pyspark seaborn ipykernel
-
-pip install sagemaker boto3 awscli jupyterlab
-
-pip install lime shap
+pip install pandas numpy boto3 scikit-learn pyarrow pyspark
 
 ### 사용하는 모델
 Transformer Model
