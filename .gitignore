@@ -16,3 +16,9 @@ __pycache__/
 
 # OS
 .DS_Store
+
+
+vitals/
+hourly_bins/
+intermediate/
+outputs/
