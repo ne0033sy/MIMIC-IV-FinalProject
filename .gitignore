@@ -22,3 +22,4 @@ vitals/
 hourly_bins/
 intermediate/
 outputs/
+*.yaml
