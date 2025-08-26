@@ -17,9 +17,21 @@ __pycache__/
 # OS
 .DS_Store
 
-
+# Data files (중요!)
+data/
+*.csv
+*.parquet
+*.h5
+*.hdf5
+*.pickle
+*.pkl
+MIMIC/
 vitals/
 hourly_bins/
 intermediate/
 outputs/
 *.yaml
+
+# Log files
+*.log
+pipeline.log
